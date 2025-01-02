@@ -1,0 +1,76 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Acústico MTV",
+            "descricao": "Seleção de Apresentações Acústicas do Programa MTV Unplugged",
+            "cor": "#6BD1FF"        
+        },
+        {
+            "id": 2,
+            "nome": "Sertanejo",
+            "descricao": "Seleção de Apresentações de Cantores Sertanejos",
+            "cor": "#00C86F"        
+        },
+        {
+            "id": 3,
+            "nome": "Forró",
+            "descricao": "Seleção de Apresentações de Cantores de Forró",
+             "cor": "#FF0000"        
+        },
+        {
+            "id": 4,
+            "nome": "Pagode",
+            "descricao": "Seleção de Apresentações de Grupos de Pagode",
+            "cor": "#FF69B4"      
+        },
+        {
+            "id": 5,
+            "nome": "VJ/DJ Magrão",
+            "descricao": "Seleção de Remix's do VJ/DJ Magrão",
+            "cor": "#0000FF"        
+        },
+        {
+            "id": 6,
+            "nome": "Funk",
+            "descricao": "Seleção de Apresentações de Cantores de Funk",
+            "cor": "#FF8C00"        
+        },
+        {
+            "id": 7,
+            "nome": "Rap",
+            "descricao": "Seleção de Apresentações de Cantores de Rap",
+            "cor": "#000000"        
+        },
+        {
+            "id": 8,
+            "nome": "Reggae",
+            "descricao": "Seleção de Apresentações de Cantores de Reggae",
+            "cor": "#008000"        
+        },
+        {
+            "id": 9,
+            "nome": "Pop",
+            "descricao": "Seleção de Apresentações de Cantores Pop",
+            "cor": "#FFD700"       
+        },
+        {
+            "id": 10,
+            "nome": "Samba",
+            "descricao": "Seleção de Apresentações de Cantores de Samba",
+            "cor": "#FF1493"        
+        },
+        {
+            "id": 11,
+            "nome": "MPB",
+            "descricao": "Seleção de Apresentações de Cantores de MPB",
+            "cor": "#8B4513"        
+        },
+        {
+            "id": 12,
+            "nome": "Rock",
+            "descricao": "Seleção de Apresentações de Bandas de Rock",
+            "cor": "#FFD700"        
+        }
+    ]
+}
