@@ -35,48 +35,6 @@
             "nome": "VJ/DJ Magrão",
             "descricao": "Seleção de Remix's do VJ/DJ Magrão",
             "cor": "#0000FF"        
-        },
-        {
-            "id": 7,
-            "nome": "Funk",
-            "descricao": "Seleção de Apresentações de Cantores de Funk",
-            "cor": "#FF8C00"        
-        },
-        {
-            "id": 8,
-            "nome": "Rap",
-            "descricao": "Seleção de Apresentações de Cantores de Rap",
-            "cor": "#000000"        
-        },
-        {
-            "id": 9,
-            "nome": "Reggae",
-            "descricao": "Seleção de Apresentações de Cantores de Reggae",
-            "cor": "#008000"        
-        },
-        {
-            "id": 10,
-            "nome": "Pop",
-            "descricao": "Seleção de Apresentações de Cantores Pop",
-            "cor": "#FFD700"       
-        },
-        {
-            "id": 11,
-            "nome": "Samba",
-            "descricao": "Seleção de Apresentações de Cantores de Samba",
-            "cor": "#FF1493"        
-        },
-        {
-            "id": 12,
-            "nome": "MPB",
-            "descricao": "Seleção de Apresentações de Cantores de MPB",
-            "cor": "#8B4513"        
-        },
-        {
-            "id": 13,
-            "nome": "Rock",
-            "descricao": "Seleção de Apresentações de Bandas de Rock",
-            "cor": "#FFD700"        
         }
     ],
     "videos": [
@@ -247,12 +205,5 @@
             "categoriaId": 6,
             "titulo": "80´s Megamix Vol 2",
             "url": "https://www.youtube.com/embed/Q_Uo8VU8YXI?si=DE2nWwUEbt9nixVD"
-        },
-        {
-            "id": 29,
-            "categoriaId": 6,
-            "titulo": "90´s Megamix",
-            "url": "https://www.youtube.com/embed/NLt-ifk0GS0?si=Q4h8iuA3zczSvNZ0"
         }
-    ]
 }
