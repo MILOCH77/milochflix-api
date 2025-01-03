@@ -7,13 +7,13 @@
             "cor": "#930606"
         },
         {
-            "id": 1,
+            "id": 2,
             "nome": "Acústico MTV",
             "descricao": "Seleção de Apresentações Acústicas do Programa MTV Unplugged",
             "cor": "#6BD1FF"        
         },
         {
-            "id": 2,
+            "id": 3,
             "nome": "Sertanejo",
             "descricao": "Seleção de Apresentações de Cantores Sertanejos",
             "cor": "#00C86F"        
