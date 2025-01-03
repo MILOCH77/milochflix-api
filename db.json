@@ -83,8 +83,8 @@
         {
             "id": 8,
             "categoriaId": 2,
-          "titulo": "Engenheiros do Hawaii",
-          "url": "https://www.youtube.com/embed/9BgiIfaXTtA?si=ScXJoU-D0bzcG8N5"
+            "titulo": "Engenheiros do Hawaii",
+            "url": "https://www.youtube.com/embed/9BgiIfaXTtA?si=ScXJoU-D0bzcG8N5"
         },
         {
             "id": 9,
@@ -96,7 +96,7 @@
             "id": 10,
             "categoriaId": 3,
             "titulo": "Luana Prado - Raiz",
-          "url": "https://www.youtube.com/embed/Z_gJRWg6gyY?si=lQqBIENqjTr6jR_x"
+            "url": "https://www.youtube.com/embed/Z_gJRWg6gyY?si=lQqBIENqjTr6jR_x"
         },
         {
             "id": 11,
@@ -119,8 +119,8 @@
         {
             "id": 14,
             "categoriaId": 3,
-             "titulo": "Don & Juan - Nos bares da vida 2",
-          "url": "https://www.youtube.com/embed/BnRdbrUjTd8?si=iTkWZAgPOWwMCH08"
+            "titulo": "Don & Juan - Nos bares da vida 2",
+            "url": "https://www.youtube.com/embed/BnRdbrUjTd8?si=iTkWZAgPOWwMCH08"
         },
         {
             "id": 15,
@@ -144,7 +144,7 @@
             "id": 18,
             "categoriaId": 4,
             "titulo": "Magníficos - DVD Vol 1",
-             "url": "https://www.youtube.com/embed/zEFQcGWTvO4?si=iKpN_88Im7QlCcy5"
+            "url": "https://www.youtube.com/embed/zEFQcGWTvO4?si=iKpN_88Im7QlCcy5"
         },
         {
             "id": 19,
