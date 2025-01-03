@@ -2,6 +2,12 @@
     "categorias": [
         {
             "id": 1,
+            "nome": "Favoritos",
+            "descricao": "Seleção dos meus Vídeos Favoritos do Youtube",
+            "cor": "#930606"
+        },
+        {
+            "id": 1,
             "nome": "Acústico MTV",
             "descricao": "Seleção de Apresentações Acústicas do Programa MTV Unplugged",
             "cor": "#6BD1FF"        
@@ -16,7 +22,7 @@
             "id": 3,
             "nome": "Forró",
             "descricao": "Seleção de Apresentações de Cantores de Forró",
-             "cor": "#FF0000"        
+             "cor": "#B30092"        
         },
         {
             "id": 4,
