@@ -253,24 +253,6 @@
             "categoriaId": 6,
             "titulo": "90´s Megamix",
             "url": "https://www.youtube.com/embed/NLt-ifk0GS0?si=Q4h8iuA3zczSvNZ0"
-        },
-        {
-            "id": 30,
-            "categoriaId": 6,
-            "titulo": "90´s Megamix Vol 2",
-             "url": "https://www.youtube.com/embed/6Pv3HUcTels?si=7Qpybme1FuV9Bznb"
-        },
-        {
-            "id": 32,
-            "categoriaId": 6,
-            "titulo": "Festa Mix Vol 1",
-            "url": "https://www.youtube.com/embed/ODkkQ4_yHzk?si=Zxhwh0PNeODs6Rzy"
-        },
-        {
-            "id": 33,
-            "categoriaId": 6,
-            "titulo": "Festa Mix Vol 3",
-            "url": "https://www.youtube.com/embed/xUQbtuVH_uU?si=rnVcos-c3J2BEp7V"
         }
     ]
 }
